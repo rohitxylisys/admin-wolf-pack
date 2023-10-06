@@ -1,0 +1,12 @@
+.main-panel {
+  background-color: wheat;
+  width: 100% !important;
+}
+
+.login-component {
+  justify-content: center;
+  display: flex;
+}
+.card {
+  margin-top: 300px;
+}
